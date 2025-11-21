@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Linux Process Monitor & Analyzer",
+  "description": "A dashboard to visualize and analyze Linux process CPU usage (User vs System) from log data using Google Gemini for insights.",
+  "requestFramePermissions": []
+}
